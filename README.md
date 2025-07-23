@@ -21,7 +21,7 @@ This project demonstrates:
 
 * How to use operational and contextual variables to optimize pricing
 * How a machine learning model can generate fair, responsive fare estimates
-* 🖥How to deploy pricing predictions through a live API using FastAPI
+* How to deploy pricing predictions through a live API using FastAPI
 
 ---
 
@@ -145,7 +145,7 @@ The system's design can be adapted for:
 * Subscription tier pricing
 * Promotions based on supply-demand elasticity
 
-----
+-----
 
 ## License
 
