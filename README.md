@@ -33,7 +33,6 @@ This project demonstrates:
 | **API App**               | FastAPI app that delivers fare predictions using live input features      |
 | **Pipeline Model (.pkl)** | Trained ML pipeline for use in the app                                    |
 | **LinkedIn Article**      | Strategic write-up on dynamic pricing for executives and business readers |
-| **Infographic**           | Visual summary of the pricing system's architecture and benefits          |
 
 ---
 
