@@ -19,14 +19,13 @@ Fixed prices may seem predictable — but they rarely reflect real-world complex
 
 This project demonstrates:
 
-* 📊 How to use operational and contextual variables to optimize pricing
-* 🤖 How a machine learning model can generate fair, responsive fare estimates
-* 🖥️ How to deploy pricing predictions through a live API using FastAPI
-* ✍️ How to communicate the strategic value of dynamic pricing to business audiences
+* How to use operational and contextual variables to optimize pricing
+* How a machine learning model can generate fair, responsive fare estimates
+* 🖥How to deploy pricing predictions through a live API using FastAPI
 
 ---
 
-## 📦 What’s Included
+## What’s Included
 
 | Component                 | Description                                                               |
 | ------------------------- | ------------------------------------------------------------------------- |
@@ -38,14 +37,36 @@ This project demonstrates:
 
 ---
 
-## 📈 What the System Does
+## How Dynamic Pricing Works
+
+A dynamic pricing engine operates in five key stages:
+
+1. **Ingest Data**  
+   Monitor relevant variables such as demand levels, time of day, location, vehicle type, and more.
+
+2. **Train Model**  
+   Use historical data to learn how different pricing scenarios influence customer behavior and demand patterns.
+
+3. **Optimize Prices**  
+   Calculate price points that align with business objectives such as revenue growth, customer retention, and inventory management.
+
+4. **Implement Real-time**  
+   Instantly apply optimized prices across digital channels like mobile apps, web platforms, and POS systems.
+
+5. **Learn Continuously**  
+   Feed real-time performance data back into the system to refine and improve pricing accuracy over time.
+
+---
+
+## Sample Use Case: Ride Fare Prediction
 
 This ride-fare pricing system predicts optimal prices using inputs such as:
 
-* Number of trips currently booked
+* Ride demand
 * Trip distance
-* Hour of the day and day of the week
-* Vehicle type (Standard, Premium, etc.)
+* Hour of the day
+* Day of the week
+* Vehicle type
 
 It processes this data, infers pricing sensitivity based on context (e.g., "Evening Rush" vs. "Night Low Demand"), and recommends a price that balances revenue potential with fairness.
 
@@ -57,7 +78,7 @@ It processes this data, infers pricing sensitivity based on context (e.g., "Even
   "trip_distance_km": 10.5,
   "hour": 19,
   "day": "Friday",
-  "vehicle_type": "Premium"
+  "vehicle_type": "rideXL"
 }
 ```
 
@@ -65,14 +86,13 @@ It processes this data, infers pricing sensitivity based on context (e.g., "Even
 
 ```json
 {
-  "predicted_fare": 28.75,
-  "booking_time": "Evening"
+  "predicted_fare": 28.75
 }
 ```
 
 ---
 
-## 🧠 Business Value
+## Business Value
 
 Dynamic pricing can help:
 
@@ -84,7 +104,7 @@ Dynamic pricing can help:
 
 ---
 
-## 📘 Supporting Thought Leadership
+## Supporting Thought Leadership
 
 As part of this project, I authored:
 
@@ -101,11 +121,11 @@ A clear visual overview designed for presentations and stakeholder discussions.
 
 ---
 
-## 🚀 Getting Started (For Demo Purposes)
+## Getting Started (For Demo Purposes)
 
 ```bash
 # Clone the repository
-https://github.com/yourusername/dynamic-pricing-project.git
+https://github.com/Mobolaji-Salawu/Dynamic-Pricing-with-Machine-Learning.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -116,7 +136,7 @@ uvicorn dynamic_pricing_app:app --reload
 
 ---
 
-## 🔮 Future Business Applications
+## Future Business Applications
 
 The system's design can be adapted for:
 
@@ -125,12 +145,12 @@ The system's design can be adapted for:
 * Subscription tier pricing
 * Promotions based on supply-demand elasticity
 
----
+----
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-If you're a business stakeholder interested in leveraging data for smarter pricing — or looking for examples of how AI can drive profit — this portfolio project is built for you.
+If you're a business stakeholder interested in leveraging data for smarter pricing — or looking for examples of how machine learning/AI can drive profit — this portfolio project is a simple sample case you can build on.
