@@ -1,6 +1,8 @@
 # Dynamic Pricing: Unlocking Revenue with Real-Time Intelligence
 
-This project demonstrates how businesses can apply dynamic pricing strategies using machine learning to make smarter, real-time pricing decisions. Inspired by ride-hailing use cases, the project showcases how prices can be optimized based on operational data - such as demand, time, and service tier - to increase revenue, improve margin, and enhance customer experience.
+This project demonstrates how businesses can apply dynamic pricing strategies using machine learning to make smarter, real-time pricing decisions.
+
+Inspired by ride-hailing use cases, the project showcases how prices can be optimized based on operational data - such as demand, time, and service tier - to increase revenue, improve margin, and enhance customer experience.
 
 ---
 
@@ -50,11 +52,12 @@ A dynamic pricing engine operates in five key stages:
    Calculate price points that align with business objectives such as revenue growth, customer retention, and inventory management.
 
 4. **Implement Real-time**  
-   Instantly apply optimized prices across digital channels like mobile apps, web platforms, and POS systems.
+   Instantly apply optimized prices across digital channels like mobile apps and web platforms.
 
 5. **Learn Continuously**  
    Feed real-time performance data back into the system to refine and improve pricing accuracy over time.
-<img width="1024" height="1536" alt="Dynamic Pricing System" src="https://github.com/user-attachments/assets/4e7d0ea9-e36c-41f6-a008-232684f6c599" />
+
+<img width="1024" height="1536" alt="Dynamic Pricing System v2" src="https://github.com/user-attachments/assets/e06bdcf0-5e18-4566-af8e-adfb3e01f207" />
 
 ---
 
@@ -68,7 +71,7 @@ This ride-fare pricing system predicts optimal prices using inputs such as:
 * Day of the week
 * Vehicle type
 
-It processes this data, infers pricing sensitivity based on context (e.g., "Evening Rush" vs. "Night Low Demand"), and recommends a price that balances revenue potential with fairness.
+It processes this data and recommends a price that balances revenue potential with fairness.
 
 ### Sample Input
 
@@ -96,7 +99,7 @@ It processes this data, infers pricing sensitivity based on context (e.g., "Even
 
 Dynamic pricing can help:
 
-* Increase revenue by 2–5% annually
+* Increase revenue by 2-5% annually
 * Improve profit margins by aligning prices with true demand
 * Turn pricing teams from manual operators into strategic analysts
 * Respond to competitor price changes in real time
