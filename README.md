@@ -1,12 +1,12 @@
 # Dynamic Pricing: Unlocking Revenue with Real-Time Intelligence
 
-This project demonstrates how businesses can apply dynamic pricing strategies using machine learning to make smarter, real-time pricing decisions. Inspired by ride-hailing use cases, the project showcases how prices can be optimized based on operational data — such as demand, time, and service tier — to increase revenue, improve margin, and enhance customer experience.
+This project demonstrates how businesses can apply dynamic pricing strategies using machine learning to make smarter, real-time pricing decisions. Inspired by ride-hailing use cases, the project showcases how prices can be optimized based on operational data - such as demand, time, and service tier - to increase revenue, improve margin, and enhance customer experience.
 
 ---
 
 ## Why Dynamic Pricing Matters
 
-Fixed prices may seem predictable — but they rarely reflect real-world complexity. Businesses often:
+Fixed prices may seem predictable - but they rarely reflect real-world complexity. Businesses often:
 
 * Leave money on the table during peak demand
 * Slash prices randomly during low sales periods
@@ -54,6 +54,7 @@ A dynamic pricing engine operates in five key stages:
 
 5. **Learn Continuously**  
    Feed real-time performance data back into the system to refine and improve pricing accuracy over time.
+<img width="1024" height="1536" alt="Dynamic Pricing System" src="https://github.com/user-attachments/assets/4e7d0ea9-e36c-41f6-a008-232684f6c599" />
 
 ---
 
@@ -114,9 +115,6 @@ A business-focused guide that:
 * Explains how pricing systems work (from data ingestion to real-time updates)
 * Offers examples of strategic use cases
 * Provides an implementation roadmap for executives
-
-📊 **Infographic**
-A clear visual overview designed for presentations and stakeholder discussions.
 
 ---
 
