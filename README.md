@@ -57,8 +57,6 @@ A dynamic pricing engine operates in five key stages:
 5. **Learn Continuously**  
    Feed real-time performance data back into the system to refine and improve pricing accuracy over time.
 
-<img width="1024" height="1536" alt="Dynamic Pricing System v2" src="https://github.com/user-attachments/assets/e06bdcf0-5e18-4566-af8e-adfb3e01f207" />
-
 <img width="512" height="768" alt="Dynamic Pricing System v2" src="https://github.com/user-attachments/assets/e06bdcf0-5e18-4566-af8e-adfb3e01f207" />
 
 ---
