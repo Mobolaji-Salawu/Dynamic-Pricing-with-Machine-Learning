@@ -1,4 +1,4 @@
-# Dynamic Pricing: Unlocking Revenue with Real-Time Intelligence
+# Dynamic Pricing: Unlocking Value with Real-Time Intelligence
 
 This project demonstrates how businesses can apply dynamic pricing strategies using machine learning to make smarter, real-time pricing decisions.
 
@@ -23,7 +23,7 @@ This project demonstrates:
 
 * How to use operational and contextual variables to optimize pricing
 * How a machine learning model can generate fair, responsive fare estimates
-* How to deploy pricing predictions through a live API using FastAPI
+* How to deploy pricing predictions through a live API
 
 ---
 
