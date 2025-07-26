@@ -29,8 +29,8 @@ This project demonstrates:
 
 ## What’s Included
 
-| Component                 | Description                                                                          |
-| ------------------------- | ------------------------------------------------------------------------------------ |
+| Component                    | Description                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------ |
 | ✅**Notebook**              | Full walkthrough: data preprocessing, feature engineering, modeling, and evaluation  |
 | ✅**Pipeline Model (.pkl)** | Trained ML pipeline for use in the app                                               |
 | ✅**API App**               | FastAPI app that delivers fare predictions using live input features                 |
