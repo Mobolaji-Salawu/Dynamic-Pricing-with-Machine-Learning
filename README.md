@@ -123,14 +123,14 @@ A business-focused guide that:
 
 ## Getting Started (For Demo Purposes)
 
-```bash
+```
 # Clone the repository
 https://github.com/Mobolaji-Salawu/Dynamic-Pricing-with-Machine-Learning.git
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch the API (optional)
+# Launch the API
 uvicorn dynamic_pricing_app:app --reload
 ```
 
